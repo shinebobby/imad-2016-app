@@ -9,6 +9,6 @@ element.innerHTML = "New Value";
 
 var img = document.getElementById("madi");
 
-madi.onClick = function(){
+img.onClick = function(){
     img.style.marginLeft = '200px';
 };
