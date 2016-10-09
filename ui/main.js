@@ -10,5 +10,5 @@ element.innerHTML = "New Value";
 var img = document.getElementById("madi");
 
 madi.onClick = function(){
-    img.style.marginLeft = '100px';
+    img.style.marginLeft = '500px';
 };
